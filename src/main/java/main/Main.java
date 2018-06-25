@@ -25,6 +25,8 @@ public class Main extends Application {
     /**
      * @param args the command line arguments
      */
+
+    //checking to see if I can change anything
     public static void main(String[] args) {
         Application.launch(args);
     }
